@@ -1,0 +1,7 @@
+open normal cmd
+command1-->
+set NODE_OPTIONS=--openssl-legacy-provider
+
+
+command 2-->
+npm start
